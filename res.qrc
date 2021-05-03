@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/report.png</file>
+        <file>img/settings.png</file>
+        <file>img/logo_kvantron.png</file>
+        <file>img/chestny_znak.png</file>
+        <file>img/close.png</file>
+        <file>img/start.png</file>
+        <file>img/stop.png</file>
+        <file>img/delete.png</file>
+    </qresource>
+    <qresource prefix="/style">
+        <file>VisualScript.qss</file>
+    </qresource>
+</RCC>
