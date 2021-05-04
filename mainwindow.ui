@@ -273,7 +273,7 @@
          <x>0</x>
          <y>0</y>
          <width>698</width>
-         <height>510</height>
+         <height>499</height>
         </rect>
        </property>
        <layout class="QGridLayout" name="gridLayout_8">
@@ -458,6 +458,12 @@
               <layout class="QGridLayout" name="gridLayout_4">
                <item row="2" column="0">
                 <widget class="QGroupBox" name="groupBox_3">
+                 <property name="minimumSize">
+                  <size>
+                   <width>0</width>
+                   <height>10</height>
+                  </size>
+                 </property>
                  <property name="title">
                   <string>Статистика</string>
                  </property>
@@ -664,6 +670,12 @@
                </item>
                <item row="1" column="0">
                 <widget class="QGroupBox" name="groupBox_4">
+                 <property name="minimumSize">
+                  <size>
+                   <width>0</width>
+                   <height>10</height>
+                  </size>
+                 </property>
                  <property name="title">
                   <string>Статистика</string>
                  </property>

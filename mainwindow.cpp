@@ -44,7 +44,7 @@ MainWindow::MainWindow(QWidget *parent)
     QScrollBar* vScrollBar = new QScrollBar;
 //    vScrollBar->setValue(1000);
 
-//    ui->scrollArea->setSizeAdjustPolicy(QAbstractScrollArea::AdjustToContents);
+    ui->scrollArea->setSizeAdjustPolicy(QAbstractScrollArea::AdjustToContents);
 
     cam_First->initSome();
     cam_First->setSerial("22310683");
